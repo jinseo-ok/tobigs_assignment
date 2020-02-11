@@ -340,7 +340,7 @@ Heating: Type of heating
 HeatingQC: Heating quality and condition
 
        Ex	Excellent
-       Gd	Good
+       Gd	Goodㅌ
        TA	Average/Typical
        Fa	Fair
        Po	Poor
